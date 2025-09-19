@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/afshanzubia/cs280_projects/pa1/maintester2'
+relocations:     []
+...
